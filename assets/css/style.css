@@ -1,0 +1,68 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#headercontent {
+
+ background-color: rgb(15, 15, 44);
+ 
+ 
+}
+td { width:10%; height:300 px; padding: 1%}
+tr img { width:100%; height 100%; border-radius: 10%;}
+
+
+
+#words {
+  background-color: rgb(108, 108, 190);
+  font-family: Arial, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+#title {
+background-color: rgb(255, 191, 72);
+margin: 20px;
+
+}
+
+
+
+
+   
+
+}
+.single-images {
+    margin: 5em 1em;
+    width: 20%;
+    display: inline-block;
+    border: lightgrey solid 2px;
+   
+}
+
+#imageblock1{
+    margin: 12px;
+    margin-left:auto ;
+    margin-right: auto;
+}
+
+
+#imageblock2{
+    margin: 12px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+#logoend {
+    background-color: rgb(44, 44, 93);
+}
